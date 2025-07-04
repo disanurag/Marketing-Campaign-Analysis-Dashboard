@@ -38,6 +38,7 @@ To evaluate the effectiveness of marketing campaigns and identify high-ROI strat
 - **Total ROI** – Profitability  
   ```dax
   Total ROI = (Total Revenue - Total Spend) / Total Spend * 100
+  ```
   Average ROI – Benchmark to compare individual campaigns
   Best Campaign – Auto-select campaign with highest ROI
   
